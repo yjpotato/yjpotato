@@ -1,6 +1,5 @@
 ### Hi there 👋
-![ponyojoa7467@gmail.com's github stats](https://github-readme-stats.vercel.app/api?username=ponyojoa7467@gmail.com&show_icons=true)
-<!--
+
 
 
 Here are some ideas to get you started:
