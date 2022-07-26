@@ -1,7 +1,7 @@
 ### Hi there 👋
-
+![ponyojoa7467@gmail.com's github stats](https://github-readme-stats.vercel.app/api?username=ponyojoa7467@gmail.com&show_icons=true)
 <!--
-**yjpotato/yjpotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
