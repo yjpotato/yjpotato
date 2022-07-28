@@ -1,3 +1,5 @@
+![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+
 <h2 align="center">🍎IOS</h2>
 <h2 align="center">⋆｡ﾟ✶°💜 My dream is to be an ios developer! 👩🏻‍💻  
  💜⋆｡ﾟ✶°</h2>
