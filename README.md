@@ -1,5 +1,5 @@
 <p align="center">
-<img src= https://mblogthumb-phinf.pstatic.net/MjAyMDAxMjhfMjMy/MDAxNTgwMTM3OTc4NDYw.AUem4DpBscLFJ14GiQ1UvpBn5gOk_TVtqY5AtatQr9Qg.FJ7qNtGv942OZleyUxYWUEDAk0uAWd37oFf5gajTmakg.GIF.kma9501/1580137980851.gif?type=w800 width="1000" height="400"/>
+<img src= https://mblogthumb-phinf.pstatic.net/MjAyMDAxMjhfMjMy/MDAxNTgwMTM3OTc4NDYw.AUem4DpBscLFJ14GiQ1UvpBn5gOk_TVtqY5AtatQr9Qg.FJ7qNtGv942OZleyUxYWUEDAk0uAWd37oFf5gajTmakg.GIF.kma9501/1580137980851.gif?type=w800 width="700" height="400"/>
 
 <h2 align="center">🍎IOS</h2>
 <h2 align="center">⋆｡ﾟ✶°💜 My dream is to be an ios developer! 👩🏻‍💻  
