@@ -37,11 +37,11 @@
   <a href="https://velog.io/@loveylponyo" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="Velog">
   </a>
-  <a href="https://yj-potato.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tistory-%23000000?style=flat-square&logo=tistory&logoColor=white" alt="Tistory">
+   <a href="https://yj-potato.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-%238A2BE2?style=flat-square&logo=tistory&logoColor=white" alt="Tistory">
   </a>
-  <a href="https://github.com/yjpotato" target="_blank">
-    <img src="https://img.shields.io/badge/Github-%23181717?style=flat-square&logo=github&logoColor=white" alt="Github">
+   <a href="https://github.com/yjpotato" target="_blank">
+    <img src="https://img.shields.io/badge/Github-FF1493?style=flat-square&logo=github&logoColor=white" alt="Github">
   </a>
 </div>
 
