@@ -1,6 +1,6 @@
-<div align="center">
+
   ![깃허브메인이미지](./images/githubmain.png)
-</div>
+
 
 <div align="center">
   <h2>안녕하세요! 개발자를 꿈꾸는 정유진 입니다.</h2>
