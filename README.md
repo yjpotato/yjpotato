@@ -1,9 +1,10 @@
 <div align="center">
   <img src="./images/githubmain.png" alt="깃허브메인이미지">
 </div>
-<br>
+
 <div align="center">안녕하세요! 개발자를 꿈꾸는 정유진 입니다.</div>
 <div align="center">프론트엔드 개발에 관심이 있으며 스스로 디자인하는 것을 좋아합니다! 🙆🏻‍♀️ 🎨</div>
+<br>
 <div align="center">🛠️ 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸 🛠️</div>
 <div align="center">𝐈'𝐦 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠...</div>
 <br>
