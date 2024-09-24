@@ -11,10 +11,10 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/Node-%67A4AC?style=flat-square&logo=node&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/Vue-%4FC08D?style=flat-square&logo=typescript&logoColor=white" alt="Vue">
-      <img src="https://img.shields.io/badge/Node-%67A4AC?style=flat-square&logo=typescript&logoColor=white" alt="Node">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
